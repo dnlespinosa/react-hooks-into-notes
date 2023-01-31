@@ -1,0 +1,17 @@
+Custom Hooks 
+
+Making Your Own Hooks  
+    Needed to: 
+        absract logic 
+        handle repeated tasks (DRY)
+        Generate your own JSX 
+
+Creating Custom Hooks 
+    Toggle Hook
+    One of the most common things youll do in apps is toggle some state
+    This could be hiding some state, turning something on or off or moving something from one place to another
+    We could repeat this logic over and over or we could use a hook (function) to do it for us
+
+Hooks   
+    Hooks should be in a separate hooks folder and all hooks should start their filename with use   
+        useToggleState.js
